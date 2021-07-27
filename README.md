@@ -2,7 +2,7 @@
 
 By Wen Wang,  Yang Cao,  Jing Zhang, Fengxiang He, Zheng-jun Zha, Yonggang Wen, and Dacheng Tao
 
-This repository is an official implementation of the paper [Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers](todo).
+This repository is an official implementation of the paper [Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers (coming soon)](todo).
 
 
 ## Introduction
