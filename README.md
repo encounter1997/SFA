@@ -1,8 +1,8 @@
-# Sequence Feature Alignment (S/FA)
+# Sequence Feature Alignment (SFA)
 
 By Wen Wang,  Yang Cao,  Jing Zhang, Fengxiang He, Zheng-jun Zha, Yonggang Wen, and Dacheng Tao
 
-This repository is an official implementation of the paper [Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers (coming soon)](todo).
+This repository is an official implementation of the paper [Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers](https://arxiv.org/abs/2107.12636), which is accepted to ACM MultiMedia 2021.
 
 
 ## Introduction
